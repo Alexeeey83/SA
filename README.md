@@ -109,4 +109,3 @@
 
 ## Контактная информация
 - Email: alexeeey@inbox.ru
-- LinkedIn: [https://www.linkedin.com/in/aleksei-sadov-54576379/]
