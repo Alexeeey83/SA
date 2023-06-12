@@ -108,6 +108,5 @@
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: alexeeey@inbox.ru
+- LinkedIn: [https://www.linkedin.com/in/aleksei-sadov-54576379/]
